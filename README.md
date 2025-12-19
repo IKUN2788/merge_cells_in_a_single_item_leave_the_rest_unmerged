@@ -1,3 +1,7 @@
+<img width="1392" height="960" alt="image" src="https://github.com/user-attachments/assets/f769c2cf-af68-47df-987c-ec4d5b36dd01" />
+<img width="1010" height="847" alt="image" src="https://github.com/user-attachments/assets/2fa572fb-88e2-4dc1-b3fe-8f7fa6780521" />
+
+
 # Python实战：打造高效Excel数据合并工具 (PyQt5 + Pandas)
 
 在日常的数据处理工作中，我们经常遇到需要对Excel表格进行“合并单元格”操作的场景。例如，物流对账单、订单列表等，往往有多行数据属于同一个订单（如运单号相同），但具体的费用项（运费、提货费等）是分开列出的。为了生成清晰的对账单，我们需要将相同订单的信息合并显示，而保留明细行。
